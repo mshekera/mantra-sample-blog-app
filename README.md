@@ -1,3 +1,5 @@
+HELLO
+
 ## A Sample Blog App Written in Mantra
 
 This is a sample blog app written in [Mantra](https://github.com/kadirahq/mantra) covering core features of it.
